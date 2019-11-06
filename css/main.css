@@ -77,11 +77,11 @@ section {
   line-height: 1.4;
 }
 
-btn-default {
+.btn-default {
   color: #faa541;
 }
 
-btn-primary {
+.btn-primary {
   color: #364147;
 }
 
